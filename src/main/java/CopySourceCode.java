@@ -12,8 +12,6 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 import java.util.Map;
 
-//import com.sun.jdi.Value;
-
 public class CopySourceCode extends XDebuggerTreeActionBase {
     @Override
     protected boolean isEnabled(@NotNull XValueNodeImpl node, @NotNull AnActionEvent e) {
