@@ -1,4 +1,6 @@
-POC WIP for https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000422864-Generate-Code-from-Object-state-in-Debugger
+# Intellij Plugin 
+
+WIP for https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000422864-Generate-Code-from-Object-state-in-Debugger
 
 
 ## Idea
